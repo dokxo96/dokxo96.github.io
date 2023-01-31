@@ -8,3 +8,6 @@ A web application that shows info of SpaceX, using [spaceX rest API](https://git
 [Surge](https://dokxo-space-x.surge.sh/)
 
 [Netlify](https://master--starlit-valkyrie-b70bbc.netlify.app/)
+
+[Vercel](https://dokxo96-github-io.vercel.app/)
+
